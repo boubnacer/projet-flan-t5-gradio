@@ -1,0 +1,1 @@
+Le langage Python a été créé en 1991 par Guido van Rossum. Il est largement utilisé dans l'intelligence artificielle, le développement web et la science des données. Python est apprécié pour sa syntaxe simple et lisible.
