@@ -1,10 +1,10 @@
-# 🤖 FLAN-T5 Gradio RAG – Retrieval-Augmented Generation with FLAN-T5
+#  FLAN-T5 Gradio RAG – Retrieval-Augmented Generation with FLAN-T5
 
 This project demonstrates a simple **Retrieval-Augmented Generation (RAG)** pipeline using the `google/flan-t5` model for answering user questions based on uploaded documents. It uses **sentence-transformers** for embedding text, **FAISS** for similarity search, and a **Gradio** web interface for interaction.
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 1. **Clone the repository**
 
